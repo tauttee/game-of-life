@@ -9,7 +9,7 @@ import org.junit.Test;
 import com.wakaleo.gameoflife.domain.Cell;
 import com.wakaleo.gameoflife.domain.GridReader;
 
-public class WhenYouReadAGridFromAStringTest {
+public class WhenYouReadAGridFromAString {
 
     private final String NEW_LINE = System.getProperty("line.separator");
 

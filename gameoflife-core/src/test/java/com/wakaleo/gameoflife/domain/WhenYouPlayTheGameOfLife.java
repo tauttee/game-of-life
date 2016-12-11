@@ -9,7 +9,7 @@ import static com.wakaleo.gameoflife.domain.Universe.seededWith;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
 
-public class WhenYouPlayTheGameOfLifeTest {
+public class WhenYouPlayTheGameOfLife {
 
     private final String NEW_LINE = System.getProperty("line.separator");
 

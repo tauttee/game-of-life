@@ -7,7 +7,7 @@ import static org.hamcrest.Matchers.is;
 
 import org.junit.Test;
 
-public class WhenYouCreateACellTest {
+public class WhenYouCreateACell {
 
     @Test
     public void aLiveCellShouldBeRepresentedByAnAsterisk() {

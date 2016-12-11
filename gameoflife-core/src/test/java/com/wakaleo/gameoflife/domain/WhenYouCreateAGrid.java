@@ -8,7 +8,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
 import static com.wakaleo.gameoflife.domain.Cell.*;
 
-public class WhenYouCreateAGridTest {
+public class WhenYouCreateAGrid {
 
     private static final String NEW_LINE = System.getProperty("line.separator");
 
